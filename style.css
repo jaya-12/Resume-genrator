@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(192, 218, 216);
+}
+/*#cv-form{
+    display: none;
+}*/
+.myimg{
+    border: 1px solid red;
+    border-radius: 50%;
+}
+.background{
+    background-color: rgb(213, 156, 82);
+}
+#cv-template{
+   display: none;
+}
